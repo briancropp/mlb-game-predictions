@@ -9,3 +9,5 @@ Long before the Hollywood hit Moneyball popularized statistical analysis in Majo
 ### Methods
 This studied relied on data pertaining to Major League Baseball play-by-play performance, weather data specific to games, and travel data unique to the professional teams. With this data collected, methods of predicting the overall game outcome (game score, the winning team, and the losing team) in an effort to improve accuracy were tested. This study used a specific simulation process call Markov Chain simulation that has been popularized in other Major League Baseball game analysis.  
 
+### Findings
+Check out final-paper-bc.pdf file for full project and exploration.
